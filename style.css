@@ -73,39 +73,37 @@ p{
     background-repeat: no-repeat;
     
 }
-.center{
-text-align:center;
-}
-.moccy{
-   line-height: 0.5;
-   font-size: 15px;
-}
-.lorem{
-    width:700px;
-    margin: 0 20% 0 20%;
-    font-weight: 500;
-}
-.contact_me{
-   width:400px;
-   text-align: center;
-   margin:0 30% 0 30%;
-   line-height: 0.5;
-   text-decoration: none;
-    background-image: linear-gradient( 45deg,#eb3553, #f25a78);
-    border-radius: 7px;
-    padding-bottom:25px;
-    padding-top:5px;
-    color:white;
-    font-size: 15px;
-   
-}
-.lastbutton{
-    text-decoration: none;
-    color:white;
-}
 .last_section{
-    padding:150px;
+    text-align:center;
+}
+
+.line{
+    line-height: 0.5;
+    font-size: 15px;
+}
+.pragraph{
+    margin: auto;
+    width: 70%;
+   color:#141313;
+    padding: 15px;
+    font-size: 20px;
 }
 footer{
     text-align:center;
+}
+.button_last a{
+    text-decoration:none;
+    color:white;
+   
+}
+.button_last{
+    background-image: linear-gradient( 45deg, rgb(231, 83, 108), tomato);
+    border-radius: 5px;
+    padding:15px 25px;
+    
+    margin: auto;
+    width: 40%;
+}
+.edit{
+    font-size:15px;
 }
